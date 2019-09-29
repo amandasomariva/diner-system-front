@@ -2,7 +2,7 @@
 
 * Sistema criado apenas para fins didático
 
-# Tecnologias utilizada
+# Tecnologias utilizadas
 
 * Webpack versão 4
 * AngularJs versão 1.4.14
